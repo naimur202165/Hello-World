@@ -2,3 +2,12 @@ h2 {
   color: green;
   font-size: 3rem;
 }
+
+P {
+  font-size: 2rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  color: green;
+}
